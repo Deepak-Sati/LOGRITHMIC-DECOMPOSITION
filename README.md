@@ -1,6 +1,7 @@
 # Competitive-Programming
 
 Problem Link 
+
 https://www.codechef.com/problems/FCTRE
 
 Asked In
@@ -9,9 +10,11 @@ Codechef april long challenge 2020
 Pre-requisite 
 
 1. Prime Seive of Eratosthenes   O(Log N)
+
 https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/
 
 2. Modular Inverse in [L,R]   O(N)
+
 https://www.geeksforgeeks.org/modular-multiplicative-inverse-1-n/
 
 3. Lowest Common Ancestor using Binary Lifting   O(Log N) 
