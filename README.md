@@ -1,5 +1,7 @@
 # Competitive-Programming
 
+'\n'
+
 Problem Link 1
 
 https://www.codechef.com/problems/FCTRE
@@ -31,9 +33,7 @@ https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-
 
 https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/
 
-
-
-
+'\n'
 
 Problem Link 2 
 
