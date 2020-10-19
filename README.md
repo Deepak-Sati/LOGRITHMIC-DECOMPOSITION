@@ -1,6 +1,6 @@
 # Competitive-Programming
 
-'\n'
+ ---->>> PROBLEM 1 <<<---- 
 
 Problem Link 1
 
@@ -33,7 +33,7 @@ https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-
 
 https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/
 
-'\n'
+ ---->>> PROBLEM 2 <<<---- 
 
 Problem Link 2 
 
