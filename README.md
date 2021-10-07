@@ -15,7 +15,7 @@ Pre-requisite
 
 https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/
 
-2. Modular Inverse in [L,R]   O(N)
+2. Modular Inverse in [L,R]   O(Log N)
 
 https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
