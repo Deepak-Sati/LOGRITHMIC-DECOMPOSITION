@@ -17,7 +17,7 @@ https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-qu
 
 2. Modular Inverse in [L,R]   O(N)
 
-https://www.geeksforgeeks.org/modular-multiplicative-inverse-1-n/
+https://www.geeksforgeeks.org/multiplicative-inverse-under-modulo-m/
 
 3. Lowest Common Ancestor using Binary Lifting   O(Log N) 
 
