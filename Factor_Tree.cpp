@@ -118,8 +118,8 @@ void MO(int q)
 
 		while(L < ml)	 update(id[--ml]);
 		while(R > mr)	 update(id[++mr]);
-		while(L > ml)  update(id[ml++]);
-    while(R < mr)	 update(id[mr--]);
+		while(L > ml)    update(id[ml++]);
+                while(R < mr)	 update(id[mr--]);
 
 		int u = id[ml], v = id[mr];
 		if( qr[i].lca != u && qr[i].lca != v)
