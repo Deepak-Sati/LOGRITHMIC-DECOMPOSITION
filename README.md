@@ -32,19 +32,3 @@ https://www.geeksforgeeks.org/mos-algorithm-query-square-root-decomposition-set-
 5. Graph in STL
 
 https://www.geeksforgeeks.org/graph-implementation-using-stl-for-competitive-programming-set-1-dfs-of-unweighted-and-undirected/
-
- ---->>> PROBLEM 2 <<<---- 
-
-Problem Link 2 
-
-https://www.codechef.com/JUNE20A/problems/CONTAIN
-
-Asked In
-Codechef june long challenge 2020
-
-Pre-requisite 
-
-1. Convex Hull
-
-https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html
-
