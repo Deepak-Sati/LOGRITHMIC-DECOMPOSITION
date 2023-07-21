@@ -6,7 +6,6 @@ Problem Link 1
 
 https://www.codechef.com/problems/FCTRE
 
-Asked In
 Codechef april long challenge 2020
 
 Pre-requisite 
